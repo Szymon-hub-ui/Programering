@@ -1,0 +1,14 @@
+C:\Users\Elev\Documents\Visual Studio Code\obj\Debug\net8.0\Visual Studio Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Documents\Visual Studio Code\obj\Debug\net8.0\Visual Studio Code.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\Visual Studio Code\obj\Debug\net8.0\Visual Studio Code.AssemblyInfo.cs
+C:\Users\Elev\Documents\Visual Studio Code\obj\Debug\net8.0\Visual Studio Code.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Visual Studio Code\bin\Debug\net8.0\Visual Studio Code.exe
+C:\Users\Elev\Documents\Visual Studio Code\bin\Debug\net8.0\Visual Studio Code.deps.json
+C:\Users\Elev\Documents\Visual Studio Code\bin\Debug\net8.0\Visual Studio Code.runtimeconfig.json
+C:\Users\Elev\Documents\Visual Studio Code\bin\Debug\net8.0\Visual Studio Code.dll
+C:\Users\Elev\Documents\Visual Studio Code\bin\Debug\net8.0\Visual Studio Code.pdb
+C:\Users\Elev\Documents\Visual Studio Code\obj\Debug\net8.0\Visual Studio Code.dll
+C:\Users\Elev\Documents\Visual Studio Code\obj\Debug\net8.0\refint\Visual Studio Code.dll
+C:\Users\Elev\Documents\Visual Studio Code\obj\Debug\net8.0\Visual Studio Code.pdb
+C:\Users\Elev\Documents\Visual Studio Code\obj\Debug\net8.0\Visual Studio Code.genruntimeconfig.cache
+C:\Users\Elev\Documents\Visual Studio Code\obj\Debug\net8.0\ref\Visual Studio Code.dll
